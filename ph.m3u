@@ -67,5 +67,5 @@ https://junhls.persiana.live/hls/stream.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1,CNN
-http://282.57.43.60:8443/live/5748aabe4c9d661afbd7f40682481664/116.m3u8
+#EXTINF:-1,NBA LIVE
+http://206.212.244.183:25461/live/4abYcSzugD/7732488130/23211.m3u8
