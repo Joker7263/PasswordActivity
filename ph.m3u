@@ -79,3 +79,5 @@ https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest1080p_1776383699.mp
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 #EXTINF:-1,CARTOON NETWORK 
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_3000000=12-mp4a_256000_eng=6.m3u8
+#EXTINF:-1,GMA PINOY TV
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest_audio_1776896968.mp4
