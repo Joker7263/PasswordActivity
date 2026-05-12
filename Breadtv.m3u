@@ -11,6 +11,7 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/in
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_3000000=12-mp4a_256000_eng=6.m3u8
 #EXTINF:-1,GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT379214720260512174226046878&programid=ch00000000000000001214&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=1&contentid=ch00000000000000001214&stbid=02:00:00:00:00:00&NeedJITP=1&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&usersessionid=BLJMICF8T5XXXX&userid=1438418816418&videoid=ch00000090990000001093
+#EXTM3U
 #EXTINF:-1,A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,DepEd TV
