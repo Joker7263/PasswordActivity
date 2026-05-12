@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Xw1F3l.png",NBA LIVE
+#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sport",NBA (720p)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-64053-1/b6852481004d/1304.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/example2.png",NBA LIVE 2
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-65033-1/f603a4b95282/1237.m3u8
