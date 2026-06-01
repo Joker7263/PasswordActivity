@@ -83,3 +83,5 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, Cinema One
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT379217420260601110144122130&programid=ch00000000000000001548&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=1&contentid=ch00000000000000001548&stbid=02:00:00:00:00:00&NeedJITP=1&AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&usersessionid=852NEU8T1ZOXXX&userid=1041236685526&videoid=ch00000090990000001283
